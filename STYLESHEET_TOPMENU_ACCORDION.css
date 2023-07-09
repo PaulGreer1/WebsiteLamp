@@ -1,0 +1,55 @@
+/* TOPMENU ACCORDION ******************************************************************/
+
+.node1 { position: relative; display: block; margin: 6px; }
+
+
+.node2 { position: relative; }
+.node3 { position: relative; }
+.node4 { position: relative; }
+.node5 { position: relative; }
+.node6 { position: relative; }
+.node7 { position: relative; }
+.node8 { position: relative; }
+
+
+.container1 { position: absolute; display: none; }
+.container2 { position: absolute; display: none; }
+.container3 { position: absolute; display: none; }
+
+.topmenubar > input:checked + div > div + div { position: relative; display: block; }
+/* .topmenubar > input:checked + div > div > div > div { position: relative; display: block; } */
+
+
+.node2:hover .container2 { position: relative; display: block; }
+.node5:hover .container3 { position: relative; display: block; }
+
+.nodelabel
+{
+    display: inline-block;
+    width: 250px;
+    padding: 6px;
+    font-size: 14px;
+    color: #0957a2;
+    /* color: #000000; */
+    background-color: #fac045;
+    /* background-color: #ffffff; */
+    /* border-top: 1px solid #ffffff; */
+    /* border-left: 1px solid #ffffff; */
+    border-bottom: 0px solid #6f634f;
+    border-right: 0px solid #6f634f;
+    /* box-shadow:  0px 1px 4px rgba(0,0,0,0.70); */          /* horizontal vertical blur color */
+}
+
+.nodelabel  a:link, a:visited
+{
+    color: #0957a2;
+    /* color: #000000; */
+}
+
+.nodelabel:hover
+{
+    color: #0957a2;
+}
+
+/**********************************************************************************/
+
