@@ -2,7 +2,7 @@
 
 ## WebsiteLamp
 
-Powerful LAMP website with membership, CRM, brochure, financial, etc. tools. Proprietary PHP-based MVC system. Take it, install it, enjoy it!
+Powerful LAMP website with tools for membership, CRM, brochure, financials, etc.. Proprietary PHP-based MVC system. Take it, install it, enjoy it!
 
 This repository will start you off with the following website:
 
