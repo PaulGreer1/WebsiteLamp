@@ -6,9 +6,9 @@ Powerful LAMP website with tools for membership, CRM, brochure, financials, etc.
 
 This repository will start you off with the following website:
 
-https://www.ukappcoder.com/index.php
+https://www.ukappcoder.com/index.php?
 
-powered by PHP/MySQL web apps. an app has MVC structure. each app consists of the following files:
+The site is powered by a set of PHP/MySQL web apps. An app has a model-view-controller (MVC) structure, and includes the following mimimal set of files:
 
 * Config.php
 
@@ -18,4 +18,4 @@ powered by PHP/MySQL web apps. an app has MVC structure. each app consists of th
 
 ## Configuration
 
-use the top level Config.php file to configure the software for your system, then copy this file to all the other app directories.
+Use the top level Config.php file to configure the system for your server, then copy this Config.php file to all the other app directories.
