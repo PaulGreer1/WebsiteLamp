@@ -10,11 +10,11 @@ https://github.com/PaulGreer1/WebsiteLamp
 
 powered by PHP/MySQL web apps. an app has MVC structure. each app consists of the following files:
 
-> Config.php
+* Config.php
 
-> Content.php
+* Content.php
 
-> controller.php
+* controller.php
 
 ## Configuration
 
