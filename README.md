@@ -6,7 +6,7 @@ Powerful LAMP website with tools for membership, CRM, brochure, financials, etc.
 
 This repository will start you off with the following website:
 
-[https://github.com/PaulGreer1/WebsiteLamp](https://www.ukappcoder.com/index.php?)
+https://www.ukappcoder.com/index.php
 
 powered by PHP/MySQL web apps. an app has MVC structure. each app consists of the following files:
 
