@@ -16,6 +16,6 @@ The site is powered by a set of PHP/MySQL web apps. An app has a model-view-cont
 
 * controller.php
 
-## Configuration
+### Configuration
 
 Use the top level Config.php file to configure the system for your server, then copy this Config.php file to all the other app directories.
