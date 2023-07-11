@@ -1,5 +1,3 @@
-![Request_response_sequence_diagram](https://github.com/PaulGreer1/WebsiteLamp/blob/main/UKAPPCODER_002.png)
-
 ## WebsiteLamp
 
 This is a powerful Linux-Apache-MySQL-PHP (LAMP) website with tools for membership, customer relationship management (CRM), brochure, financials, etc.. We use our own proprietary PHP-based model-view-controller (MVC) system. Take it, install it, enjoy it!
